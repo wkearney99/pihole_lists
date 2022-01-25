@@ -1,0 +1,20 @@
+# dns domains to block from pi-hole
+#
+pelotoncycle.com
+onepeloton.com
+amplitude.com
+crashlytics.com
+optimizely.com
+segment.io
+segment.com
+pndsn.com
+cloudinary.com
+akamaihd.net
+s3.amazonaws.com
+nice264.com
+youboranqs01.com
+stripe.com
+google.com
+facebook.com
+newrelic.com
+cdn.optimizely.com
