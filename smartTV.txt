@@ -1,0 +1,37 @@
+# Panasonic Viera
+
+x2.vindicosuite.com
+occ-0-399-783.1.nflxso.net
+cert-test.sandbox.google.com
+vcs.vdspf.com
+mhc-ajax-us.myhomescreen.tv
+mhc-ajax-eu.myhomescreen.tv
+mhc-sec-us.myhomescreen.tv
+mhc-sec-eu.myhomescreen.tv
+mhc-xpana-us.myhomescreen.tv
+mhc-xpana-eu.myhomescreen.tv
+collect-eu-fy2015.myhomescreen.tv
+collect-eu-fy2017.myhomescreen.tv
+collect-us-fy2016.myhomescreen.tv
+usage-eu-fy2015.myhomescreen.tv
+usage-eu-fy2017.myhomescreen.tv
+usage-eu-fy2019.myhomescreen.tv
+usage-us-fy2015.myhomescreen.tv
+usage-us-fy2017.myhomescreen.tv
+0077777700140002.myhomescreen.tv
+
+# Sony Bravia
+
+ssm1.internet.sony.tv
+bravia.dl.playstation.net
+api-mf1.meta.ndmdhs.com
+# needed for applications, if blocked error "no internet connection"
+#portal.store.sonyentertainmentnetwork.com
+# needed for applications
+#applicast.ga.sony.net
+sonybivstatic-a.akamaihd.net
+b02.black.ndmdhs.com
+call.me.sel.sony.com
+ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
+ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
+flingo.tv
