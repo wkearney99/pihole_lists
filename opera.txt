@@ -1,0 +1,7 @@
+api.surfeasy.com
+opera-proxy.net
+api.sec-tunnel.com
+sitecheck2.opera.com
+opera-mini.net
+exchange.opera.com
+features.opera-api.com
